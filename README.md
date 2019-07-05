@@ -1,2 +1,2 @@
 # Yansf
-selfpage(still editing)
+This is the introduction of Shifu Yan.
