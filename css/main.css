@@ -164,7 +164,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 /* Backgrounds */
 
 .bg-1{
-  background-image: url('../docs/5.jpg');
+  background-image: url('../docs/1.jpg');
 }
 
 /* Header */
@@ -362,14 +362,14 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 .card {
 	width: 100%;
-	height: 140px;
+	height: 170px;
 	background-color: #EEF0F7;
 	display: inline-block;
 	margin: 5px 5px;
 	vertical-align: top;
 	border-radius: 10px;
 	text-align: left;
-	padding-top: 10px
+	padding-top: 15px
 }
 
 .card-active , .card:hover{
